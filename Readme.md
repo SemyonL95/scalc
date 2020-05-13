@@ -18,7 +18,7 @@ The task will be assessed taking into consideration the following criteria (sort
 2. good programming practices (clean code)
 3. clearness and readability of implemented algorithm
 4. computational complexity
-Example:
+Example:\
 $ cat a.txt\
 1\
 2\
@@ -34,4 +34,4 @@ $ cat c.txt\
 ./scalc [ SUM [ DIF a.txt b.txt c.txt ] [ INT b.txt c.txt ] ]\
 1\
 3\
-4\
+4
